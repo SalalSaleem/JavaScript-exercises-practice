@@ -20,10 +20,10 @@
 //     document.write("welcome to our site " + first+" "+last)
 // }
 
-// greeting();
+// /greeting /();
 
 
-// 03 //
+/// 03 ///
 
 // function sum(){
 //     var firstNum = +prompt("first number");
@@ -35,7 +35,7 @@
 // sum();
 
 
-// 04 //
+/// 04 ///
 
 
 // function calculator(){
@@ -108,7 +108,4 @@
 //     var result = height+width;
 //     document.write("the area of rectangle is " + result)
 // }
-
-// area(height,width)
-
 
