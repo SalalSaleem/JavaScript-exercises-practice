@@ -1,6 +1,6 @@
 //// chapter 31 ////
 
-// 01 //
+///// 01 //
 
 // function dateAndTime(){
 //     var date = new Date();
@@ -20,7 +20,7 @@
 //     document.write("welcome to our site " + first+" "+last)
 // }
 
-// /greeting /();
+// /greeting ///();
 
 
 /// 03 ///
@@ -66,7 +66,7 @@
 //     document.write(userInput*userInput);    
 // }
 
-// square(userInput)
+/////////// square(userInput)
 
 // 06 //
 
@@ -99,7 +99,7 @@
 // 08 //
 
 
-// 09 //
+//// 09 //
 
 // var height = +prompt("what is the height of a rectangle?")
 // var width = +prompt("what is the width of a rectangle?")
