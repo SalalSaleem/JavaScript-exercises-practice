@@ -101,6 +101,9 @@
 
 //// 09 //
 
+
+// will start from here next time ////
+
 // var height = +prompt("what is the height of a rectangle?")
 // var width = +prompt("what is the width of a rectangle?")
 
@@ -109,3 +112,12 @@
 //     document.write("the area of rectangle is " + result)
 // }
 
+
+
+
+/// demo ///
+
+
+// {dsjkhdjas}
+
+// object
